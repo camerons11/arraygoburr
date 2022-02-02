@@ -8,3 +8,6 @@ warhammer40kgod.unshift('chaos');
 console.log(warhammer40kgod);
 const armys=["space marines","chaos marines","orks","eldar" ]
 document.write(armys);
+for(let i = 0; i < 100; i++){
+    console.log('BloodfortheBloodGod');
+}
